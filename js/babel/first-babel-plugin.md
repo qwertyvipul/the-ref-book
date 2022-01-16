@@ -2,7 +2,7 @@
 Change the name of default import and all its uses
 
 ## Original Code
-```js
+```jsx
 import Button from "./Button.js";
 
 function App(){
@@ -16,7 +16,7 @@ function App(){
 ```
 
 ## Target Code
-```js
+```jsx
 import Boop from "./Button.js";
 
 function App(){
